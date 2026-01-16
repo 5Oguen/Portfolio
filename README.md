@@ -1,6 +1,7 @@
 <h1>👋 Salut, je suis Herminio Romeu <br/><a href="https://">Analyste </a><a href="">et Pentester en Cybersécurité</a> <a href="https://"></a></h1>
 
-Autodidacte passionné par la cybersécurité depuis 2021, orienté analyse SOC junior et Pentester. Développement des compétences via des laboratoires personnels, des simulations d’attaques réelles dans un cadre légal et la vulgarisation de la cybersécurité.
+Autodidacte passionné par la cybersécurité depuis 2021, orienté analyse SOC junior et Pentester. Développement des compétences via des laboratoires personnels, des simulations d’attaques réelles dans un cadre légal et la vulgarisation de la cybersécurité via YouTube et Lives de sensibilisation sur TikTok.
+.
 
 <p>
 je développe mes compétences à travers des 
@@ -14,9 +15,8 @@ je développe mes compétences à travers des
 - Cisco – Introduction à la Cybersécurité (Attestation). Autoformation continue sur TryhackMe, BlackTheBox et veille technologique
 
 
-<p><b> - Vulgarisation & Sensibilisation </b></p>
+<p><b> - Certifications: </b></p>
 
-- Création de contenus pédagogiques sur la cybersécurité via YouTube et TikTok.
 
  
 </p>
@@ -69,15 +69,15 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
 
 <p><b>📸 Captures D'écran</b></p>
 
-[Image: Mise en place de l’environnement de laboratoire](01_CAP.png)
+[Image 1: Mise en place de l’environnement de laboratoire](01_CAP.png)
 
-[Image: Récuperation du mot de passe et de l'authentification par l'attaquant](02_CAP.png)
+[Image 2: Récuperation du mot de passe et de l'authentification par l'attaquant](02_CAP.png)
 
-[Image: Chiffrement des fichiers](03_CAP.png)
+[Image 3: Chiffrement des fichiers](03_CAP.png)
 
-[Image: Note de rançon](04_CAP.png)
+[Image 4: Note de rançon](04_CAP.png)
 
-[Image: Configuration du fichier sshd_config](05_CAP.png)
+[Image 5: Configuration du fichier sshd_config](05_CAP.png)
 
 
 <p><b>🎥 Projet en vidéo</b></p>
@@ -139,15 +139,15 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
   
 <p><b>📸 Captures D'écran</b></p>
 
-[Image: Configuration des réseaux](IOT-2.png.png)
+[Image 1: Configuration des réseaux](IOT-2.png.png)
 
-[Image: Adressage des IP](IOT-4.png.png)
+[Image 2: Adressage des IP](IOT-4.png.png)
 
-[Image: Adressage des routeurs ](IOT-5.png.png)
+[Image 3: Adressage des routeurs ](IOT-5.png.png)
 
-[Image: Configuration des tables de routage](IOT-6.png.png)
+[Image 4: Configuration des tables de routage](IOT-6.png.png)
 
-[Image: Configuration des règles](IOT-7.png.png)
+[Image 5: Configuration des règles](IOT-7.png.png)
 
 
 <p><b>🎥 Projet en vidéo</b></p>
@@ -203,15 +203,15 @@ L’objectif est uniquement éducatif : comprendre les méthodes de phising  uti
 
 <p><b>📸 Captures D'écran</b></p>
 
-[Image: Lancement de Gophish](GOF1.png)
+[Image 1: Lancement de Gophish](GOF1.png)
 
-[Image: Ouverture du e-mail de phising Amazon](GOF2.png)
+[Image 2: Ouverture du e-mail de phising Amazon](GOF2.png)
 
-[Image: Capture des identifiants compte Amazon](GOF3.png)
+[Image 3: Capture des identifiants compte Amazon](GOF3.png)
 
-[Image: Ouverture du e-mail de phising Amazon TIK TOK](GOF4.png)
+[Image 4: Ouverture du e-mail de phising Amazon TIK TOK](GOF4.png)
 
-[Image: Capture des identifiants compte TIK TOK](GOF5.png)
+[Image 5: Capture des identifiants compte TIK TOK](GOF5.png)
 
 
 <p><b>🎥 Projet en vidéo</b></p>
@@ -253,11 +253,29 @@ L’objectif est uniquement éducatif : comprendre les méthodes de phising  uti
 
 ⚠️ Tous les projets sont réalisés à des fins pédagogiques et légales.
 
+
+
+<br>
+
 📌 Chaîne YouTube : ([Cliquez-ici](https://youtube.com/@sahloguen?si=Hpktf-nre0k2oLam))
 
-<p><b>🎥 -Vidéos YouTube:</b></p>
+<p><b>🎥 -Vidéos Populaires:</b></p>
+
+
+👉 [Pirater  un Wi-Fi sécurisé avec le WPA 2 - WPA 3](https://youtu.be/fbQuDP7hVsA?si=75BI0LQ_hKwegnJd)
+
+👉 [Le meilleur VPN gratuit en 2025 : Le plus sûr et le plus rapide  pour votre vie privée en ligne](https://youtu.be/be3CbHOqo7c?si=RlbK6DoDZNFM_MOD)
+
+👉 [Comment pirater un compte: Tik-Tok, Amazon, Instagram...](https://youtu.be/qGTKKoFPMW0?si=zNIWPpfqJKvT-Oha)
+
+👉 [Mettre à jour kali linux de A à Z](https://youtu.be/lKcUrAygCzE?si=ULPWoIP7gMqxlE1T)
+
+ 
 
 <p><b>📌 Liens </b></p>
+
+
+<p><b>🎥 -Vidéos de ma Chaine YouTube:</b></p>
 
 👉 [Devenir invisible sur un réseau | Les trois étapes les plus incontournables](https://youtu.be/r2xa73cp0M8?si=Wsb3zx9YJcA8MnSx)
 
@@ -267,8 +285,6 @@ L’objectif est uniquement éducatif : comprendre les méthodes de phising  uti
 
 👉 [Attention - La menace de l'IA s'accentue sur nous](https://youtu.be/DF_HJGa7uy4?si=xLHvRF1RxAG6CDKV)
 
-👉 [Pirater  un Wi-Fi sécurisé avec le WPA 2 - WPA 3](https://youtu.be/fbQuDP7hVsA?si=75BI0LQ_hKwegnJd)
-
 👉 [Nos métiers sont-elles vraiment menacés face à l'IA ?](https://youtu.be/suzDN2aGeP4?si=KfK0Q9ofMkFX4oZZ)
 
 👉 [Les bases de la Navigation sécurisée pour les débutants (Partie 1)](https://youtu.be/2uEcNuc6xmk?si=_N7QkML2IiA6t33X)
@@ -276,10 +292,6 @@ L’objectif est uniquement éducatif : comprendre les méthodes de phising  uti
 👉 [Les bases de la Navigation sécurisée pour les débutants (Partie 2)](https://youtu.be/zYQkh7JklWQ?si=3jJKxSW5XzDEQrpD)
 
 👉 [Juste ces 2 commandes vous montrent le trafic Réseau)](https://youtu.be/NuBnztCzF5M?si=hY0JD-dzYTD0uTKW)
-
-👉 [Le meilleur VPN gratuit en 2025 : Le plus sûr et le plus rapide  pour votre vie privée en ligne](https://youtu.be/be3CbHOqo7c?si=RlbK6DoDZNFM_MOD)
-
-👉 [Mettre à jour kali linux de A à Z](https://youtu.be/lKcUrAygCzE?si=ULPWoIP7gMqxlE1T)
 
 
 
