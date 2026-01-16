@@ -27,7 +27,7 @@ Je m’appuie sur :
 
 ## 🧾 Certifications
 
-- ❌ Aucune (approche basée sur la pratique et les projets concrets)
+- ❌ Aucune 
 
 ---
 
