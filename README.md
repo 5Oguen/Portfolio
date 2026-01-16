@@ -103,6 +103,64 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
 - Sensibilisation aux risques ransomware
 
 
+
+<p><b>PROJET 2 — Interconnection de 3 réseaux avec CiscoPacketTracer (LAB éducatif)</b></p>
+
+<p><b>1. Contexte </b></p>
+
+- Dans cette vidéo, je  simule une interconnexion de 3 réseaux avec des objets connectés sous Cisco Packet Tracer pour détecter les intrusions en temps réel dans un centre hospitalier.  
+📡 Alarmes, capteur de mouvement et caméra  sont utilisés dans ce projet. 
+
+
+<p><b>💡 3. Environnement technique </b></p>
+ 
+- Cisco Packet Tracer
+
+
+<p><b>🔴 4. Actions réalisées </b></p>
+
+- Configuration des réseaux
+   
+‎- Adressage des IP
+‎
+‎- Adressage des serveurs 
+‎
+‎- Adressage des routeurs 
+‎
+- configuration des tables de routage 
+‎
+- Creation des comptes utilisateurs 
+‎ 
+- Configuration des règles 
+
+
+<p><b>🔴 5. Résultats observés </b></p>
+
+- Cette demonstration illustre comment l'internet des objets peut transformer la surveillance medicale en connectant intelligiblement les capteurs et serveurs dasn un systeme d'information moderne.
+
+  
+<p><b>📸 Captures D'écran</b></p>
+
+[Image: Mise en place de l’environnement de laboratoire](01_CAP.png)
+
+[Image: Récuperation du mot de passe et de l'authentification par l'attaquant](02_CAP.png)
+
+[Image: Chiffrement des fichiers](03_CAP.png)
+
+[Image: Note de rançon](04_CAP.png)
+
+[Image: Configuration du fichier sshd_config](05_CAP.png)
+
+
+<p><b>🎥 Projet en vidéo</b></p>
+
+👉 [Suivre la vidéo ici](https://youtu.be/6sowvp7CpSw?si=wcbxkZdYZiwznifM)
+
+
+
+
+
+
 <p><b>👨‍💻 7. Projets Cybersécurité </b></p>
 
 <p><b>🎥 -Vidéos YouTube:</b></p>
@@ -115,8 +173,6 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
 👉 [Devenir invisible sur un réseau | Les trois étapes les plus incontournables](https://youtu.be/r2xa73cp0M8?si=Wsb3zx9YJcA8MnSx)
 
 👉 [Comment faire un backdooring avancé](https://youtu.be/eOoJ-geUvvg?si=lMBN3-H3jgrP8eyO)
-
-👉 [Comment interconnecter 3 réseaux avec CiscoPacketTracer et sécuriser un centre hospitalier ](https://youtu.be/6sowvp7CpSw?si=wcbxkZdYZiwznifM)
 
 👉 [Découvrir un  mot de passe en 5 minutes  | Avec Narthex](https://youtu.be/nUoIasbaZTs?si=KG5CnyUS13c-g2Rt))
 
