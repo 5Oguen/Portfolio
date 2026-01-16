@@ -20,7 +20,7 @@ je développe mes compétences à travers des
 
 <p><b>🔴3 - Certifications: </b></p>
 
-
+<br>
  
 </p>
 <p><b>🔴 4 Compétences techniques </b></p>
