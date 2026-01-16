@@ -101,6 +101,10 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
 - Limitation des privilèges utilisateurs
 
 - Sensibilisation aux risques ransomware
+<br>
+
+
+
 
 
 
@@ -159,6 +163,80 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
 
 
 
+<p><b>🔴  3 Projets Pratiques Sélectionnés </b></p>
+
+<p><b>PROJET 1 — Comment pirater un compte: Tik-Tok, Amazon, Instagram... (LAB éducatif)</b></p>
+
+<p><b>1. Contexte </b></p>
+
+- Dans cette vidéo, je simule une campagne de phishing avec l'outil GoPhish afin d’expliquer comment fonctionnent des attaques faites avec des faux emails.
+L’objectif est uniquement éducatif : comprendre les méthodes de phising  utilisées par les cybercriminels pour la prevention.
+
+<p><b>💡 3. Environnement technique </b></p>
+ 
+- Attaquant : Kali Linux
+
+- Victime : Employes d'une entréprise (LAB)
+
+- Environnement : Comptes e-mail
+
+- Outils : Terminal Linux, Gophish, 
+
+<p><b>🔴 4. Actions réalisées </b></p>
+
+- Présentation de GoPhish  
+- Lancement de Gophish
+- Lancement de la campagne de piratage Amazon
+- Lancement de la campagne de piratage TIK TOK
+- Mesures de sécurité essentielles 
+
+<p><b>- Contre-mésures </b></p>
+
+
+<p><b>🔴 5. Résultats observés </b></p>
+
+Les fichiers de la machine cible ont été chiffrés et rendus inaccessibles.
+Cette situation démontre l’impact critique d’un ransomware sur la disponibilité des données.
+
+<p><b>📸 Captures D'écran</b></p>
+
+[Image: Mise en place de l’environnement de laboratoire](01_CAP.png)
+
+[Image: Récuperation du mot de passe et de l'authentification par l'attaquant](02_CAP.png)
+
+[Image: Chiffrement des fichiers](03_CAP.png)
+
+[Image: Note de rançon](04_CAP.png)
+
+[Image: Configuration du fichier sshd_config](05_CAP.png)
+
+
+<p><b>🎥 Projet en vidéo</b></p>
+
+👉 [Suivre la vidéo ici](https://youtu.be/hoLiapFHhdM?si=mGYM2-irQt6Vebjv)
+
+
+
+
+
+
+
+
+<p><b>🔴 6. Analyse & Défense </b></p>
+
+- Surveillance des comportements anormaux
+
+- Sauvegardes régulières des données
+
+- Limitation des privilèges utilisateurs
+
+- Sensibilisation aux risques ransomware
+<br>
+
+
+
+
+
 
 
 <p><b>👨‍💻 7. Projets Cybersécurité </b></p>
@@ -177,8 +255,15 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
 👉 [Découvrir un  mot de passe en 5 minutes  | Avec Narthex](https://youtu.be/nUoIasbaZTs?si=KG5CnyUS13c-g2Rt))
 
 
+<br>
+
+
 
 📁 Repo GitHub : 
+
+
+<br>
+
 
 📄 Rapport PDF : 
 
@@ -187,6 +272,8 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
 ⚠️ Tous les projets sont réalisés à des fins pédagogiques et légales.
 
 📌 Chaîne YouTube : ([Cliquez-ici](https://youtube.com/@sahloguen?si=Hpktf-nre0k2oLam))
+
+<br>
 
 🌐 Me contacter
 <p> <a href="https://www.linkedin.com/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> &nbsp; <a href="https://www.youtube.com/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a> &nbsp; <a href="https://t.me/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/></a> </p>
