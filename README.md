@@ -141,7 +141,7 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
   
 <p><b>📸 Captures D'écran</b></p>
 
-[Image: Mise en place de l’environnement de laboratoire](IOT-1.png)
+[Image: Mise en place de l’environnement de laboratoire](IOT-1.png.png)
 
 [Image: Récuperation du mot de passe et de l'authentification par l'attaquant](IOT-2.png)
 
