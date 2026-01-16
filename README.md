@@ -247,6 +247,12 @@ L’objectif est uniquement éducatif : comprendre les méthodes de phising  uti
 
 <p><b>👨‍💻 6. Projets Cybersécurité </b></p>
 
+
+
+⚠️ Tous les projets sont réalisés à des fins pédagogiques et légales.
+
+📌 Chaîne YouTube : ([Cliquez-ici](https://youtube.com/@sahloguen?si=Hpktf-nre0k2oLam))
+
 <p><b>🎥 -Vidéos YouTube:</b></p>
 
 <p><b>📌 Liens </b></p>
@@ -275,14 +281,45 @@ L’objectif est uniquement éducatif : comprendre les méthodes de phising  uti
 
 
 
-⚠️ Tous les projets sont réalisés à des fins pédagogiques et légales.
-
-📌 Chaîne YouTube : ([Cliquez-ici](https://youtube.com/@sahloguen?si=Hpktf-nre0k2oLam))
-
 
 
 
 <br>
 
-<p><b>🌐 7 Me contacter </b></p>
-<p> <a href="https://www.linkedin.com/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> &nbsp; <a href="https://www.youtube.com/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a> &nbsp; <a href="https://t.me/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/></a> </p>
+<p><b>🌐 7. Me contacter</b></p>
+
+<p>
+  <a href="mailto:oguensahl@gmail.com">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+  </a>
+  &nbsp;
+
+  <a href="tel:+33600000000">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/phone.svg"/>
+  </a>
+  &nbsp;
+
+  <a href="https://www.linkedin.com/in/tonprofil/">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  </a>
+  &nbsp;
+
+  <a href="https://www.youtube.com/@tonchaine">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+  </a>
+  &nbsp;
+
+  <a href="https://www.instagram.com/tonprofil/">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  </a>
+  &nbsp;
+
+  <a href="https://www.tiktok.com/@tonprofil">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg"/>
+  </a>
+  &nbsp;
+
+  <a href="https://[t.me/tonprofil](https://t.me/SahlOguen)">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
+  </a>
+</p>
