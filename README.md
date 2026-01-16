@@ -14,7 +14,7 @@ je développe mes compétences à travers des
 
 
 
-
+<p>
 <p><b>Formation & Apprentissage Continu </b></p>
 
 - Cisco – Introduction à la Cybersécurité (Attestation). Autoformation continue sur TryhackMe, BlackTheBox et veille technologique 
@@ -81,6 +81,13 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
 [Image: Configuration du fichier sshd_config](05_CAP.png)
 
 
+<p><b>🎥 Projet en vidéo</b></p>
+
+👉 [Suivre la vidéo ici](https://youtu.be/hoLiapFHhdM?si=mGYM2-irQt6Vebjv)
+
+
+
+
 
 
 
@@ -102,7 +109,6 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
 
 <p><b>📌 Liens </b></p>
 
-👉 [L'Ultime Attaque Qui Vous Rend Impuissant | Démonstration](https://youtu.be/hoLiapFHhdM?si=mGYM2-irQt6Vebjv)
 
 👉 [Comment pirater un compte: Tik-Tok, Amazon, Instagram...](https://youtu.be/qGTKKoFPMW0?si=zNIWPpfqJKvT-Oha))
 
