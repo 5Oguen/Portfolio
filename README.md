@@ -181,14 +181,16 @@ L’objectif est uniquement éducatif : comprendre les méthodes de phising  uti
 - Outils : Terminal Linux, Gophish, 
 
 <p><b>🔴 3. Actions réalisées </b></p>
-
-- Présentation de GoPhish
    
 - Lancement de Gophish
   
-- Lancement de la campagne de piratage Amazon
+- Ouverture du email de phising Amazon
+
+- Capture des identifiants compte Amazon
   
-- Lancement de la campagne de piratage TIK TOK
+- Ouverture du email de phising Amazon TIK TOK
+
+- Capture des identifiants compte TIK TOK
    
 
 <p><b>- Contre-mésures: Mesures de sécurité essentielles </b></p>
