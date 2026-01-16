@@ -6,6 +6,20 @@ Autodidacte passionné par la cybersécurité depuis 2021, orienté analyse SOC 
 Passionné par la cybersécurité, je développe mes compétences à travers des 
 <strong>labs pratiques</strong>, des <strong>preuves de concept</strong> et des 
 <strong>démonstrations techniques</strong> documentées.
+
+<p><b>Vulgarisation & Sensibilisation </b></p>
+
+- Création de contenus pédagogiques sur la cybersécurité via YouTube et TikTok.
+
+
+
+
+
+<p><b>Formation & Apprentissage Continu </b></p>
+
+- Cisco – Introduction à la Cybersécurité (Attestation). Autoformation continue sur TryhackMe, BlackTheBox et veille technologique 
+
+ 
 </p>
 <p><b>🛡️ 1 Compétences techniques </b></p>
 
@@ -36,7 +50,7 @@ L’objectif est de comprendre le mécanisme de chiffrement et l’impact d’un
 
 - Outils : Terminal Linux, commandes système
 
-<p><b>4. Actions réalisées </b></p>
+<p><b>🔴 4. Actions réalisées </b></p>
 
 - Mise en place de l’environnement de laboratoire
 
@@ -47,7 +61,7 @@ L’objectif est de comprendre le mécanisme de chiffrement et l’impact d’un
 - Analyse des fichiers affectés
 
 
-<p><b>5. Résultats observés </b></p>
+<p><b>🔴 5. Résultats observés </b></p>
 
 Les fichiers de la machine cible ont été chiffrés et rendus inaccessibles.
 Cette situation démontre l’impact critique d’un ransomware sur la disponibilité des données.
@@ -58,7 +72,7 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
 ![Message de chiffrement](images/message_ransomware.png)
 
 
-<p><b>6. Analyse & Défense </b></p>
+<p><b>🔴 6. Analyse & Défense </b></p>
 
 - Surveillance des comportements anormaux
 
@@ -69,43 +83,33 @@ Cette situation démontre l’impact critique d’un ransomware sur la disponibi
 - Sensibilisation aux risques ransomware
 
 
-<p><b>7. Liens </b></p>
+<p><b>👨‍💻 7. Projets Cybersécurité </b></p>
 
+<p><b>🎥 -Vidéos YouTube:</b></p>
 
-<p><b>👨‍💻 Projets Cybersécurité</b></p>
-
-<p><b>🎥 Vidéos YouTube:</b></p>
+<p><b>📌 Liens </b></p>
 
 👉 [L'Ultime Attaque Qui Vous Rend Impuissant | Démonstration](https://youtu.be/hoLiapFHhdM?si=mGYM2-irQt6Vebjv)
 
+👉 [Comment pirater un compte: Tik-Tok, Amazon, Instagram...](https://youtu.be/qGTKKoFPMW0?si=zNIWPpfqJKvT-Oha))
+
+👉 [Devenir invisible sur un réseau | Les trois étapes les plus incontournables](https://youtu.be/r2xa73cp0M8?si=Wsb3zx9YJcA8MnSx)
+
+👉 [Comment faire un backdooring avancé](https://youtu.be/eOoJ-geUvvg?si=lMBN3-H3jgrP8eyO)
+
+👉 [Comment interconnecter 3 réseaux avec CiscoPacketTracer et sécuriser un centre hospitalier ](https://youtu.be/6sowvp7CpSw?si=wcbxkZdYZiwznifM)
+
+👉 [Découvrir un  mot de passe en 5 minutes  | Avec Narthex](https://youtu.be/nUoIasbaZTs?si=KG5CnyUS13c-g2Rt))
 
 
-📁 Repo GitHub : lien
 
-📄 Rapport PDF : lien
+📁 Repo GitHub : 
 
-
-
+📄 Rapport PDF : 
 
 
-
-👨‍💻 Projets Cybersécurité
-
-
-Démonstration pédagogique
-
-Vulgarisation sécurité réseau
-
-🎥 Voir la vidéo
-👉 [Suivre la video](https://youtu.be/r2xa73cp0M8?si=znvi5AeCYdcZoaCd)
-
-📄 Rapports & Preuves de concept (Labs)
-🔹 Prendre le controle d'un compte TikTok,Insta,facebook.. 
-👉 [Suivre la video](https://youtu.be/qGTKKoFPMW0?si=_SCrFvYaxotAPY56)
 
 ⚠️ Tous les projets sont réalisés à des fins pédagogiques et légales.
-
-📺 Contenu éducatif (YouTube)
 
 📌 Chaîne YouTube : ([Cliquez-ici](https://youtube.com/@sahloguen?si=Hpktf-nre0k2oLam))
 
