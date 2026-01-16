@@ -3,7 +3,7 @@
 Autodidacte passionné par la cybersécurité depuis 2021, orienté analyse SOC junior et Pentester. Développement des compétences via des laboratoires personnels, des simulations d’attaques réelles dans un cadre légal et la vulgarisation de la cybersécurité.
 
 <p>
-Passionné par la cybersécurité, je développe mes compétences à travers des 
+je développe mes compétences à travers des 
 <strong>labs pratiques</strong>, des <strong>preuves de concept</strong> et des 
 <strong>démonstrations techniques</strong> documentées.
 
