@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 À propos de moi
+## 👨‍💻 À propos de moi
 
 Autodidacte passionné par la cybersécurité depuis **2021**, orienté **analyse SOC junior** et **pentest**.  
 Je développe mes compétences à travers des **laboratoires personnels**, des **simulations d’attaques réelles** dans un cadre **légal**, ainsi que la **vulgarisation de la cybersécurité** via YouTube et des lives de sensibilisation sur TikTok.
@@ -20,39 +20,39 @@ Je m’appuie sur :
 
 ## 🎓 Formation & Apprentissage Continu
 
-- 🏫 **Cisco – Introduction à la Cybersécurité** (Attestation)
-- 📚 Autoformation continue : **TryHackMe**, **BlackBox**, veille technologique
+- 🎓 **Cisco – Introduction à la Cybersécurité** (Attestation)
+- 📚 **Autoformation continue** : TryHackMe, BlackBox, veille technologique
 
 ---
 
 ## 🧾 Certifications
 
-- ❌ Aucune 
+- ❌ Aucune (en cours de préparation)
 
 ---
 
 ## 🛠️ Compétences Techniques
 
-**Systèmes**
+### 🖥️ Systèmes
 - Linux (Kali, Ubuntu)
 - Windows
 
-**Réseaux**
+### 🌐 Réseaux
 - TCP/IP, DNS, DHCP, VPN
 - Analyse de trafic réseau
 
-**Sécurité**
+### 🔐 Sécurité
 - SOC L1
 - MITM
 - Pentesting
 - Analyse de vulnérabilités
 
-**Outils**
+### 🧰 Outils
 - Nmap, Wireshark
 - Bettercap, Ettercap
 - Metasploit, Burp Suite
 
-**Virtualisation**
+### 🧱 Virtualisation
 - VMware
 - VirtualBox
 - Docker
@@ -63,7 +63,7 @@ Je m’appuie sur :
 
 ---
 
-## 🔴 PROJET 1 — Attaque par Ransomware (LAB éducatif)
+## 🔴 Projet 1 — Attaque par Ransomware (LAB éducatif)
 
 ### 🎯 Contexte
 Simulation d’une attaque par ransomware dans un environnement de laboratoire contrôlé afin de comprendre :
@@ -71,10 +71,10 @@ Simulation d’une attaque par ransomware dans un environnement de laboratoire c
 - l’impact sur la disponibilité des données
 
 ### 🧪 Environnement Technique
-- 🧨 Attaquant : Kali Linux  
-- 🎯 Victime : Conteneur Docker  
-- 🌐 Réseau : Local isolé  
-- 🛠️ Outils : Terminal Linux, commandes système
+- 🧨 **Attaquant** : Kali Linux  
+- 🎯 **Victime** : Conteneur Docker  
+- 🌐 **Réseau** : Local isolé  
+- 🛠️ **Outils** : Terminal Linux, commandes système
 
 ### ⚙️ Actions Réalisées
 - Mise en place du laboratoire
@@ -88,54 +88,42 @@ Simulation d’une attaque par ransomware dans un environnement de laboratoire c
 Les fichiers de la machine cible ont été rendus **inaccessibles**, démontrant l’impact critique d’un ransomware sur la disponibilité des données.
 
 ### 📸 Captures d’écran
-![Mise en place du LAB](01_CAP.png)
-![Authentification attaquant](02_CAP.png)
-![Fichiers chiffrés](03_CAP.png)
-![Note de rançon](04_CAP.png)
+![Mise en place du LAB](01_CAP.png)  
+![Authentification attaquant](02_CAP.png)  
+![Fichiers chiffrés](03_CAP.png)  
+![Note de rançon](04_CAP.png)  
 ![Configuration SSH](05_CAP.png)
 
 ### 🎥 Démonstration Vidéo
 👉 https://youtu.be/hoLiapFHhdM
 
 ### 🛡️ Analyse & Défense
-- Surveillance des comportements anormaux
-- Sauvegardes régulières
-  Il faut avoir l'habitude de faire des sauvegardes de fichiers sur des differents dispositifs (Clés USB, Cartes memoires, Disques durs...) 
-- Limitation des privilèges  
-Dans le fichier sshd_config je modifie quelques lignes pour sécuriser le serveur.
 
-💡 Je commente ou je mets sur “no” la ligne PermitRootLogin yes ? Pour empécher l'autorisation de la connexion directe au compte root via SSH.
+- 💾 **Sauvegardes régulières**  
+  Sauvegarde des fichiers sur plusieurs supports (clé USB, disque dur, stockage externe).
 
-💡 Pour bloquer l’authentification par mot de passe, je commente la ligne “ PasswordAuthentication yes” . Cette ligne Oblige l’utilisation de clés SSH.
+- 🔐 **Durcissement SSH** Je modifie les lignes suivantes dans le fichier sshd_config  pour renforcer la sécurité du serveur 
+  - `PermitRootLogin no` → empêche la connexion directe au compte root
+  - `PasswordAuthentication no` → force l’utilisation des clés SSH
+  - `MaxAuthTries 3` → limite les attaques par force brute
+  - `X11Forwarding no` → désactive le transfert graphique X11
+  - `ClientAliveInterval 300` → coupe les sessions inactives
+  - `AllowUsers admin` → liste blanche des utilisateurs autorisés
 
-💡 Je modifie la ligne MaxAuthTries 6 pour limiter les attaques par force brute je met la valeur à 3.
+---
 
-💡 La ligne “ X11Forwarding no” Désactive le transfert graphique X11 via SSH et empêche l'exploitation graphique.
-
-💡 Je modifie la ligne “ClientAliveInterval 300 ” cela envoie un signal toutes les 300 secondes (5 min) au client pour couper les sessions inactives
-   et limiter les session hijacking
-   
-💡 Et à la fin j'ajoute la ligne “AllowUsers admin” cela signifie que Seul l'utilisateur admin peut se connecter en SSH'.
-   C'est une liste blanche si votre nom n'est pas dans la liste, pas d'accès
-
-  
-
-  
-
- 
-  
-
-## 🔴 PROJET 2 — Interconnexion de 3 Réseaux (Cisco Packet Tracer)
+## 🔴 Projet 2 — Interconnexion de 3 Réseaux (Cisco Packet Tracer)
 
 ### 🎯 Contexte
 Simulation d’un système hospitalier interconnecté avec objets connectés pour la détection d’intrusions en temps réel.
 
 ### 🧪 Environnement
-- Cisco Packet Tracer
+- 🧠 Cisco Packet Tracer
 
 ### ⚙️ Actions Réalisées
 - Configuration des réseaux
-- Adressage IP, serveurs et routeurs
+- Adressage IP
+- Configuration routeurs et serveurs
 - Tables de routage
 - Comptes utilisateurs
 - Règles de sécurité
@@ -144,101 +132,77 @@ Simulation d’un système hospitalier interconnecté avec objets connectés pou
 Illustration du rôle de l’IoT dans la surveillance médicale moderne.
 
 ### 📸 Captures d’écran
-![Configuration des réseaux](IOT-2.png)
-![Adressage IP](IOT-4.png)
-![Configuration des routeurs](IOT-5.png)
-![Tables de routage](IOT-6.png)
+![Configuration réseaux](IOT-2.png)  
+![Adressage IP](IOT-4.png)  
+![Routeurs](IOT-5.png)  
+![Tables de routage](IOT-6.png)  
 ![Règles de sécurité](IOT-7.png)
-
 
 ### 🎥 Vidéo
 👉 https://youtu.be/6sowvp7CpSw
 
 ---
 
-## 🔴 PROJET 3 — Phishing (Amazon, TikTok, Instagram)
+## 🔴 Projet 3 — Phishing (Amazon, TikTok, Instagram)
 
 ### 🎯 Contexte
-Simulation d’une campagne de phishing avec **GoPhish** pour comprendre les techniques utilisées par les cybercriminels.
+Simulation d’une campagne de phishing avec **GoPhish** pour analyser les techniques utilisées par les cybercriminels.
 
 ### 🧪 Environnement
-- Attaquant : Kali Linux
-- Victimes : Employés (LAB)
-- Outils : GoPhish
+- 🧨 Attaquant : Kali Linux  
+- 🎯 Victimes : Utilisateurs (LAB)  
+- 🛠️ Outil : GoPhish
 
 ### ⚙️ Actions Réalisées
 - Lancement de GoPhish
-- Envoi de mails frauduleux
+- Création et envoi d’emails frauduleux
 - Capture des identifiants
 
 ### 📊 Résultats
-- Réalisme des emails de phishing
-- Compromission facilitée sans MFA
+- Réalisme élevé des emails
+- Compromission facilitée en absence de MFA
 
-  ### 📸 Captures d’écran
-
-![Lancement de GoPhish](GOF1.png)
-![Email phishing Amazon](GOF2.png)
-![Capture identifiants Amazon](GOF3.png)
-![Email phishing TikTok](GOF4.png)
-![Capture identifiants TikTok](GOF5.png)
-
+### 📸 Captures d’écran
+![GoPhish lancé](GOF1.png)  
+![Phishing Amazon](GOF2.png)  
+![Identifiants Amazon](GOF3.png)  
+![Phishing TikTok](GOF4.png)  
+![Identifiants TikTok](GOF5.png)
 
 ### 🛡️ Contre-mesures
 - MFA obligatoire
 - Sensibilisation utilisateurs
 - Filtres anti-phishing
 - SOC & EDR
-- Mots de passe forts
+- Politiques de mots de passe forts
 
-### 🎥## 📺 Chaîne YouTube
+---
+
+## 📺 Chaîne YouTube
 
 📌 👉 https://youtube.com/@sahloguen
 
----
-
 ### ⭐ Vidéos populaires
+👉 [Pirater un Wi-Fi sécurisé (WPA2 / WPA3)](https://youtu.be/fbQuDP7hVsA)  
+👉 [Meilleur VPN gratuit 2025](https://youtu.be/be3CbHOqo7c)  
+👉 [Phishing : TikTok, Amazon, Instagram](https://youtu.be/qGTKKoFPMW0)  
+👉 [Mettre à jour Kali Linux](https://youtu.be/lKcUrAygCzE)
 
-👉 [Pirater un Wi-Fi sécurisé (WPA2 / WPA3)](https://youtu.be/fbQuDP7hVsA)
-
-👉 [Le meilleur VPN gratuit en 2025 – Sécurité & Vie privée](https://youtu.be/be3CbHOqo7c)
-
-👉 [Comment pirater un compte : TikTok, Amazon, Instagram](https://youtu.be/qGTKKoFPMW0)
-
-👉 [Mettre à jour Kali Linux de A à Z](https://youtu.be/lKcUrAygCzE)
-
----
-
-### 🎥 Vidéos de ma chaîne (sélection)
-
-👉 [Devenir invisible sur un réseau – Les 3 étapes clés](https://youtu.be/r2xa73cp0M8)
-
-👉 [Backdooring avancé – Démonstration pratique](https://youtu.be/eOoJ-geUvvg)
-
-👉 [Découvrir un mot de passe en 5 minutes – Narthex](https://youtu.be/nUoIasbaZTs)
-
-👉 [Attention : la menace de l’IA s’intensifie](https://youtu.be/DF_HJGa7uy4)
-
-👉 [Nos métiers sont-ils menacés par l’IA ?](https://youtu.be/suzDN2aGeP4)
-
-👉 [Navigation sécurisée – Bases pour débutants (Partie 1)](https://youtu.be/2uEcNuc6xmk)
-
-👉 [Navigation sécurisée – Bases pour débutants (Partie 2)](https://youtu.be/zYQkh7JklWQ)
-
-👉 [Ces 2 commandes montrent le trafic réseau](https://youtu.be/NuBnztCzF5M)
+### 🎥 Vidéos de la chaîne (sélection)
+👉 [Devenir invisible sur un réseau](https://youtu.be/r2xa73cp0M8)  
+👉 [Backdooring avancé](https://youtu.be/eOoJ-geUvvg)  
+👉 [Découvrir un mot de passe](https://youtu.be/nUoIasbaZTs)  
+👉 [Menace de l’IA](https://youtu.be/DF_HJGa7uy4)
 
 ---
 
-<h3>🌐 Me contacter</h3>
+## 🌐 Me contacter
 
-<p>
-<a href="mailto:oguensahl@gmail.com">📧 Email</a><br>
-<a href="https://www.linkedin.com/in/tonprofil">💼 LinkedIn</a><br>
-<a href="https://github.com/tonprofil">🐙 GitHub</a><br>
-<a href="https://www.youtube.com/@tonchaine">🎥 YouTube</a><br>
-<a href="https://t.me/sahloguen">💬 Telegram</a><br>
-<a href="https://tiktok.com/@sahloguen15?_r=1&_t=ZM-91zubtLnE7c">🎵 TikTok</a><br>
-<a href="https://www.instagram.com/tonpseudo">📸 Instagram</a><br>
+📧 Email : oguensahl@gmail.com  
+💼 LinkedIn : https://www.linkedin.com  
+🐙 GitHub : https://github.com/SahlOguen  
+🎥 YouTube : https://www.youtube.com/@sahloguen  
+💬 Telegram : https://t.me/sahloguen  
+🎵 TikTok : https://tiktok.com/@sahloguen15  
+📸 Instagram : à définir  
 📞 Téléphone : +XXX XX XX XX
-</p>
-
