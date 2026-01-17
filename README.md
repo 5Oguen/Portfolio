@@ -51,6 +51,7 @@ Je m’appuie sur :
 - Nmap, Wireshark
 - Bettercap, Ettercap
 - Metasploit, Burp Suite
+- scripts Python / Bash
 
 ### 🧱 Virtualisation
 - VMware
